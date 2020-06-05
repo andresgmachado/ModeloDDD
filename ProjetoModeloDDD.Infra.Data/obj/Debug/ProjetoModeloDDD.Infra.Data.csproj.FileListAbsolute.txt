@@ -1,0 +1,13 @@
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Users\ate42.UNI4\source\repos\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb
